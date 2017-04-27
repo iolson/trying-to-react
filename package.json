@@ -1,0 +1,13 @@
+{
+  "name": "trying-to-react",
+  "version": "1.0.0",
+  "description": "Trying to setup a react boilerplate",
+  "main": "index.js",
+  "repository": "git@github.com:iolson/trying-to-react.git",
+  "author": "Ian Olson <iolson@grubhub.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  }
+}
